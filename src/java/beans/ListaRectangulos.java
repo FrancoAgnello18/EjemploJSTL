@@ -8,7 +8,7 @@ import java.util.List;
 
 
 public class ListaRectangulos {
-    //Atributo que almacenará los bjetos rectangulos
+    //Atributo que almacenará los objetos rectangulos
     private List <Rectangulo> lista = new ArrayList<>();
     
     /**
